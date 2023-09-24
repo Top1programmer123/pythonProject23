@@ -1,0 +1,5 @@
+#print(type(32))
+print(type("Jabrail"))
+print(type(True))
+print(max("hello jabrail"))
+print(min("hello jabrail"))
